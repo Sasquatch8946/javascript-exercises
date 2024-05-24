@@ -7,7 +7,7 @@ const removeFromArray = function(array, ...items) {
     });
 
     return array;
-};
 
+}
 // Do not edit below this line
 module.exports = removeFromArray;
